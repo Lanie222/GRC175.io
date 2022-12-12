@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-   background-image: url("../Images/backgroundlarge.jpg");
+   background-image: url("backgroundlarge.jpg");
    background-size: cover; 
    font-family: Helvetica, Arial rounded mt bold, sans-serif;
    font-size: 18px;
@@ -9,7 +9,7 @@ body {
    }
 
 #header { 
-background-image: url("../images/Pennyjuiceorange.jpg"); 
+background-image: url(Pennyjuiceorange.jpg"); 
 background-position: top right;
 }
 
@@ -410,15 +410,15 @@ h4 {
 .item-1{
     z-index: 2;
     opacity: 1;
-    background:url("../images/dessertlasvegas.jpg");
+    background:url("dessertlasvegas.jpg");
     background-size:cover;
 }
 .item-2{
-    background:url("../images/familyhome.jpg");
+    background:url("familyhome.jpg");
     background-size:cover;
 }
 .item-3{
-    background:url("../images/familyoutdoor.jpg");
+    background:url("familyoutdoor.jpg");
     background-size:cover;
 }
 
